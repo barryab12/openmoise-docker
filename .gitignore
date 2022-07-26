@@ -1,0 +1,13 @@
+filestore/
+sessions/
+filestore/*
+sessions/*
+docker-compose copy.yml
+filestore.zip
+odoo_filestore.zip
+addons/*
+addons/
+etc/addons
+etc/filestore
+etc/sessions
+etc/odoo-server.log

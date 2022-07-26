@@ -1,0 +1,22 @@
+# -----------------------
+# | Add Python packages |
+# -----------------------
+# To install below packages at startup, uncomment this line in "docker-compose.yml" file!
+# - ./entrypoint.sh:/entrypoint.sh
+# then down the docker container ($ docker-compose down) and up it again ($ docker-compose up -d).
+# -----------------------
+user-agents
+jsonrpcclient==3.3.6
+phonenumbers==8.12.31
+pyotp==2.6.0
+sox==1.4.1
+SpeechRecognition==3.8.1
+pydub==0.25.1
+twilio==6.50.1
+urllib3==1.26.8
+gTTs==2.2.4
+gspread
+httplib2
+oauth2client
+firebase-admin
+scrapetube
